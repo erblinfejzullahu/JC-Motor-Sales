@@ -87,7 +87,7 @@ export function Header() {
                   <span>(213) 383-2996</span>
                 </a>
                 <a
-                  href="https://maps.google.com/?q=3745+S+Western+Ave,+Los+Angeles,+CA+90018"
+                  href="https://www.google.com/maps/place/J+C+MOTOR+SALES/@34.0194713,-118.4615346,12z/data=!4m11!1m3!2m2!1scar+dealerships!6e6!3m6!1s0x80c2b9e530537705:0x6349a4080f320de1!8m2!3d34.0194713!4d-118.3090993!15sCg9jYXIgZGVhbGVyc2hpcHNaESIPY2FyIGRlYWxlcnNoaXBzkgEUbW90b3JfdmVoaWNsZV9kZWFsZXKaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUjFNblpwVVRGQlJSQULgAQD6AQQIHRAj!16s%2Fg%2F11ptnzvfp9?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-secondary-foreground/80"
