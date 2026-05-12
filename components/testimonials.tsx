@@ -64,7 +64,7 @@ export function Testimonials() {
             Have you visited us? We&apos;d love to hear your feedback!
           </p>
           <a
-            href="https://www.google.com/maps/place/J+C+MOTOR+SALES/@34.0194713,-118.3090993,17z"
+            href="https://www.google.com/maps/place/J+C+MOTOR+SALES/@34.0194757,-118.3116742,17z/data=!3m1!4b1!4m6!3m5!1s0x80c2b9e530537705:0x6349a4080f320de1!8m2!3d34.0194713!4d-118.3090993!16s%2Fg%2F11ptnzvfp9?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block mt-4 text-primary hover:text-primary/80 font-medium transition-colors"
